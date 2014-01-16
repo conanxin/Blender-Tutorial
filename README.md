@@ -1,3 +1,5 @@
+![](./img/logo.png)
+
 ## Blender实例教程 ##
 
 翻译自“[Blender Tutorials](http://davidjarvis.ca/dave/blender/)”，最初是整理成了word文档，然后有花了一些时间转成Markdwon格式，文档的图片很多，教程介绍的很详细，很适合初学者。
